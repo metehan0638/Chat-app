@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "561656185663",
+    "project_id": "udemy-firebase-dersi",
+    "storage_bucket": "udemy-firebase-dersi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561656185663:android:b0782ee1231572cdb7898a",
+        "android_client_info": {
+          "package_name": "com.example.fire_base_denemeleri_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "561656185663-g36mgrbrbb98ohih3tiarmf0esl57vkb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBBep8ofhIzhC3CqkZAnTPxyHbXgKfy6Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "561656185663-g36mgrbrbb98ohih3tiarmf0esl57vkb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "561656185663-f79sfei1me68splgi378hjfst4nf0bfm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.fireBaseDenemeleri1"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
